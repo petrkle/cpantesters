@@ -1,3 +1,4 @@
 metabase.rrd
 index.html
 *.png
+!screenshot.png
